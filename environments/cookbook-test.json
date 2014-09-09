@@ -1,0 +1,10 @@
+{
+  "name": "cookbook-test",
+  "description": "An environment for cookbook testing",
+  "json_class": "Chef::Environment",
+  "chef_type": "environment",
+  "default_attributes": {
+  },
+  "override_attributes": {
+  }
+}

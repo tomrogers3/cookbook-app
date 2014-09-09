@@ -1,0 +1,7 @@
+{
+  "go": {
+    "packages": [
+    ]
+  },
+  "run_list": [ "recipe[application]" ]
+}
